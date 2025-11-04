@@ -27,8 +27,8 @@ You should know:
 Open terminal/command prompt and run:
 ```bash
 # Replace YOUR-USERNAME with your actual GitHub username!
-git clone https://github.com/YOUR-USERNAME/python-week2-workshop
-cd python-week2-workshop
+git clone https://github.com/harshaiml/masai-mentor-session-2
+cd masai-mentor-session-2
 ```
 
 **💡 Tip:** Use `pwd` (Mac/Linux) or `cd` (Windows) to check you're in the right folder!
